@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+}
+
+.continer{
+  height: 100vh;
+  background-color: #19172C;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+.title{
+  width: 40%;
+  height: 150px;
+  margin-left:20px;
+  margin-top: 60px;
+  
+}
+.name{
+  margin-bottom: 10px;
+
+}
+.web-p{
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.lorem{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:12px ;
+  text-align: justify;
+  margin-right:4px ;
+}
+span{
+  color: #cf3c1f;
+}
+.title h1{
+  font-size: 22px;
+}
+.img{
+  background-image: url("OIP.jpeg");
+  width: 50%;
+  height: 200px;
+  margin-top: 20px;
+  margin-right: 20px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+}
+.button{
+  background-color: #5CC880;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  font-size: 10px;
+  padding: 2px;
+}
+
